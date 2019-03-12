@@ -3,3 +3,4 @@ and it is a plain text file
 Adding a new line after the first Commit.
 Added a Secnd Line 
 Added a Third line in Second branch.
+Added a fourth line in Master Branch
